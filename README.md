@@ -6,6 +6,8 @@
 この背景にある考え方は、記事に書いています。
 https://note.com/major_bobcat4320/n/n992c44a9165b
 
+- 続編：ダスト環境での検知 → https://github.com/takeyuyu/spray-anomaly-poc_2
+
 ## このコードが示すこと
 
 現場では、噴霧の良し悪しを人が目視で確認していることが多い。
